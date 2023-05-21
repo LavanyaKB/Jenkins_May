@@ -4,19 +4,31 @@ import org.testng.annotations.Test;
 
 public class TestApp {
     @Test
-    public void test1(){
+    public void test1() {
         System.out.println("Running test1");
     }
+
     @Test
-    public void test2(){
+    public void test2() {
         System.out.println("Running test2");
     }
+
     @Test
-    public void test3(){
+    public void test3() {
         System.out.println("Running test3");
     }
 
-    private void doSomething(){
+    private void doSomething() {
         System.out.println("Do something");
     }
+
+    public void test4() {
+        System.out.println("Running test4");
+    }
+    public void test5() {
+        System.out.println("Running test5");
+    }
+
+
 }
+

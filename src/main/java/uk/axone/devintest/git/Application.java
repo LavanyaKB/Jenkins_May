@@ -7,4 +7,7 @@ public class Application {
     private void doSomething(){
         System.out.println("Do something");
     }
+    private void doSomething2() {
+        System.out.println("Do something");
+    }
 }
