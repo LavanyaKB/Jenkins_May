@@ -29,6 +29,10 @@ public class TestApp {
     public void test5() {
         System.out.println("Running test5");
     }
+    public void test6() {
+        int x=10/0;
+        System.out.println("Running test6");
+    }
 
 
 }
