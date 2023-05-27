@@ -1,6 +1,7 @@
 package uk.axone.devintest.git.test;
 
-import org.testng.annotations.Test;
+
+import org.junit.Test;
 
 public class TestApp {
     @Test
